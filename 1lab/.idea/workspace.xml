@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d1d288-4b43-4a22-8aed-28cdb5604681" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/markkomissarov/algo3course/1lab&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -84,7 +84,11 @@
       <workItem from="1662372462589" duration="1080000" />
       <workItem from="1662374296263" duration="43000" />
       <workItem from="1662374352060" duration="645000" />
-      <workItem from="1662791585304" duration="5440000" />
+      <workItem from="1662791585304" duration="5884000" />
+      <workItem from="1662960674334" duration="704000" />
+      <workItem from="1663149285292" duration="28000" />
+      <workItem from="1663151840678" duration="545000" />
+      <workItem from="1663396839118" duration="81000" />
     </task>
     <servers />
   </component>
@@ -92,6 +96,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1lab$main.coverage" NAME="main Coverage Results" MODIFIED="1662800857558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1lab$main.coverage" NAME="main Coverage Results" MODIFIED="1662960742548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
